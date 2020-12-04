@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  
  💬  Ask me anything [here](https://github.com/shenweiyan/shenweiyan/issues) or by [email](mailto:https://github.com/shenweiyan/shenweiyan/issues).
  
- If you use Chinese, you can also follow me on [语雀知识库](https://www.yuque.com/shenweiyan) and [微信公众号：生信科技爱好者](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png).
+ If you use Chinese, you can also follow me on [语雀知识库](https://www.yuque.com/shenweiyan) and [微信公众号：BioIT爱好者](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png).
 
 
 <!--
