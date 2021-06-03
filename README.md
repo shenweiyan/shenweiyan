@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenweiyan&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)](https://github.com/shenweiyan/github-readme-stats)
 
- 👋  Welcome! I'm a fan of R, Python and Golang. 🔭 I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
+ 👋  Welcome! I'm a fan of Python, R and Golang. 
+ 
+ 🔭 I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
  
  💬  Ask me anything [here](https://github.com/shenweiyan/shenweiyan/issues) or by [email](mailto:https://github.com/shenweiyan/shenweiyan/issues).
  
