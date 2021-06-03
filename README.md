@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="img.jpg" width="400">
+<img src="img.jpg" width="500">
 
 <!--
 **shenweiyan/shenweiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
