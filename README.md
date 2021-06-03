@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--img align="left" src="img.jpg" width="400"-->
-<img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true&card_width=600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenweiyan&hide=html,jupyter%20notebook,javascript&layout=default&langs_count=10&card_width=600">
+<img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true&card_width=600" width="500">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenweiyan&hide=html,jupyter%20notebook,javascript&layout=default&langs_count=10&card_width=600" width="500">
                         
 :wave: Welcome! I'm a fan of Python, R and Golang. 
  
