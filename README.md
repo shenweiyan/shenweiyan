@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
 :school: I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
  
-:writing_hand: Ask me anything [here](https://github.com/shenweiyan/shenweiyan/issues) or by [email](mailto:https://github.com/shenweiyan/shenweiyan/issues).
+:writing_hand: Ask me anything [here](https://github.com/shenweiyan/shenweiyan/issues) or by [email](mailto:ishenweiyan@foxmail.com).
  
 :point_right: If you use Chinese, you can also follow me as follow:
  
