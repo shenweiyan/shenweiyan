@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
 :point_right: If you use Chinese, you can also follow me as follow:
  
-[![yuque](https://img.shields.io/badge/语雀-史提芬先森-blueviolet)](https://www.yuque.com/shenweiyan) [![wechat](https://img.shields.io/badge/公众号-BioIT爱好者-important)](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png) [![zhihu](https://img.shields.io/badge/知乎-史提芬先森-blue)](https://www.zhihu.com/people/shenweiyan) [![bioitee](https://img.shields.io/badge/导航-BioIT爱好者-green)](https://www.bioitee.com/) [![github](https://img.shields.io/badge/GitHub-shenweiyan-red)](https://github.com/shenweiyan) [![blog](https://img.shields.io/badge/博客-ICS--Hugo--Theme-blueviolet)](https://shen.bioitee.com/) [![weibo](https://img.shields.io/badge/微博-史提芬先森-green)](https://weibo.com/u/6020143196)
+[![yuque](https://img.shields.io/badge/语雀-史提芬先森-blueviolet)](https://www.yuque.com/shenweiyan) [![wechat](https://img.shields.io/badge/公众号-BioIT爱好者-important)](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png) [![zhihu](https://img.shields.io/badge/知乎-史提芬先森-blue)](https://www.zhihu.com/people/shenweiyan) [![bioitee](https://img.shields.io/badge/导航-WebStack--Hugo-green)](https://www.bioitee.com/) [![github](https://img.shields.io/badge/GitHub-shenweiyan-red)](https://github.com/shenweiyan) [![blog](https://img.shields.io/badge/博客-ICS--Hugo--Theme-blueviolet)](https://shen.bioitee.com/) [![weibo](https://img.shields.io/badge/微博-史提芬先森-green)](https://weibo.com/u/6020143196)
  
 
 
