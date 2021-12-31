@@ -42,10 +42,10 @@ I’m graduated from @Southern Medical University (China), currently working on 
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
 
-Learn more: [https://shen.bioitee.com/](https://shen.bioitee.com/)
+Learn more: [https://shen.bioitee.com/](https://shen.bioitee.com/)<br/>
  
-I'm grateful to users who have greatly helped to report bugs and suggest new features.<br/>
-I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
+Real beauty comes from learning, growing, and loving in the ways of life.<br/>
+I hope that I will do my best in my study, work and life, and have a clear conscience in others.
 
  
 
