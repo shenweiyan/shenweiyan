@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <!--
 **shenweiyan/shenweiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,9 +27,10 @@ Here are some ideas to get you started:
 [![yuque](https://img.shields.io/badge/语雀-史提芬先森-blueviolet)](https://www.yuque.com/shenweiyan) [![wechat](https://img.shields.io/badge/公众号-BioIT爱好者-important)](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png) [![zhihu](https://img.shields.io/badge/知乎-史提芬先森-blue)](https://www.zhihu.com/people/shenweiyan) [![bioitee](https://img.shields.io/badge/导航-WebStack--Hugo-green)](https://www.bioitee.com/) [![github](https://img.shields.io/badge/GitHub-shenweiyan-red)](https://github.com/shenweiyan) [![blog](https://img.shields.io/badge/博客-ICS--Hugo--Theme-blueviolet)](https://shen.bioitee.com/) [![weibo](https://img.shields.io/badge/微博-史提芬先森-green)](https://weibo.com/u/6020143196)
 -->
 
-### Steven Shum
+### Steven Shum 👋
 
-A Bioinformatics Engineer<br/>
+A Bioinformatics Engineer
+<br/>
 I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
 
 <a href="https://gitstar-ranking.com/shenweiyan">
@@ -42,7 +39,7 @@ I’m graduated from @Southern Medical University (China), currently working on 
 
 [Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) 
 
-- :microscope: I'm a fan of Python, R and Golang. .
+- :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
 
 Learn more: [https://shen.bioitee.com/](https://shen.bioitee.com/)
