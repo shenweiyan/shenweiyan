@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <!--img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true" width="500"-->
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenweiyan&hide=html,jupyter%20notebook,javascript&layout=default&langs_count=10&card_width=500" width="500"-->
 
-<--
-:wave: Welcome! I'm a fan of Python, R and Golang. 
+<!--:wave: Welcome! I'm a fan of Python, R and Golang. 
  
 :school: I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
  
@@ -41,7 +40,7 @@ I’m graduated from @Southern Medical University (China), currently working on 
 <img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
 </a>
 
-[Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [ORCID](http://orcid.org/0000-0002-8099-8258)
+[Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) 
 
 - :microscope: I'm a fan of Python, R and Golang. .
 - :telescope: I'm passionate about reproducible research and open source software.
