@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Steven Shum 👋
 
-A Bioinformatics Engineer
+A Bioinformatics Engineer.
 <br/>
 I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
 
@@ -42,7 +42,9 @@ I’m graduated from @Southern Medical University (China), currently working on 
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
 
-Learn more: [https://shen.bioitee.com/](https://shen.bioitee.com/)<br/>
+Learn more: [https://shen.bioitee.com/](https://shen.bioitee.com/)
+
+<br/>
  
 Real beauty comes from learning, growing, and loving in the ways of life.<br/>
 I hope that I will do my best in my study, work and life, and have a clear conscience in others.
