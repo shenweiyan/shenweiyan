@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <!--img align="left" src="img.jpg" width="400"-->
 <!--img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true" width="500"-->
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenweiyan&hide=html,jupyter%20notebook,javascript&layout=default&langs_count=10&card_width=500" width="500"-->
-                        
+
+<--
 :wave: Welcome! I'm a fan of Python, R and Golang. 
  
 :school: I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
@@ -29,6 +30,27 @@ Here are some ideas to get you started:
 :point_right: If you use Chinese, you can also follow me as follow:
  
 [![yuque](https://img.shields.io/badge/语雀-史提芬先森-blueviolet)](https://www.yuque.com/shenweiyan) [![wechat](https://img.shields.io/badge/公众号-BioIT爱好者-important)](https://apps-db.oss-cn-shenzhen.aliyuncs.com/bioitee/bioitee.png) [![zhihu](https://img.shields.io/badge/知乎-史提芬先森-blue)](https://www.zhihu.com/people/shenweiyan) [![bioitee](https://img.shields.io/badge/导航-WebStack--Hugo-green)](https://www.bioitee.com/) [![github](https://img.shields.io/badge/GitHub-shenweiyan-red)](https://github.com/shenweiyan) [![blog](https://img.shields.io/badge/博客-ICS--Hugo--Theme-blueviolet)](https://shen.bioitee.com/) [![weibo](https://img.shields.io/badge/微博-史提芬先森-green)](https://weibo.com/u/6020143196)
+-->
+
+### Steven Shum
+
+A Bioinformatics Engineer<br/>
+I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
+
+<a href="https://gitstar-ranking.com/shenweiyan">
+<img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
+</a>
+
+[Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [ORCID](http://orcid.org/0000-0002-8099-8258)
+
+- :microscope: I'm a fan of Python, R and Golang. .
+- :telescope: I'm passionate about reproducible research and open source software.
+
+Learn more: [https://shen.bioitee.com/](https://shen.bioitee.com/)
+ 
+I'm grateful to users who have greatly helped to report bugs and suggest new features.<br/>
+I may respond to issues or fix bugs quickly, but I usually implement new features periodically (two or more weeks).
+
  
 
 
