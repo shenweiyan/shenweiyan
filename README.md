@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--:wave: Welcome! I'm a fan of Python, R and Golang. 
  
-:school: I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
+:school: I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics and IT skills.
  
 :writing_hand: Ask me anything [here](https://github.com/shenweiyan/shenweiyan/issues) or by email [shenhub@foxmail.com](https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shenhub@foxmail.com).
  
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 A Bioinformatics Engineer.
 <br/>
-I’m graduated from @Southern Medical University (China), currently working on studying bioinformatics and IT skills.
+I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics and IT skills.
 
 <a href="https://gitstar-ranking.com/shenweiyan">
 <img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
