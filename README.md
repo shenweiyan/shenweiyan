@@ -42,7 +42,7 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
 
-Learn more: [https://shen.bioitee.com/](https://shen.bioitee.com/)
+Learn more: [https://www.shen.bio](https://www.shen.bio) or [https://shen.bio](https://shen.bio).
 
 <br/>
  
