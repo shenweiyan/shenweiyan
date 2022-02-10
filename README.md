@@ -37,7 +37,7 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 <img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
 </a>
 
-[Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) 
+[Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196)
 
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
