@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### Steven Shum 👋
 
+![antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=shenweiyan&style=flat&color=brightgreen&label=Profile+Views)
+
 A Bioinformatics Engineer.
 <br/>
 I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics and IT skills.
@@ -36,6 +38,8 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 <a href="https://gitstar-ranking.com/shenweiyan">
 <img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
 </a>
+
+<br/>
 
 [Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196)
 
@@ -47,7 +51,7 @@ Learn more: [https://www.shumlab.com](https://www.shumlab.com) or [https://shuml
 <br/>
  
 Real beauty comes from learning, growing, and loving in the ways of life.<br/>
-I hope that I will do my best in my study, work and life, and have a clear conscience in others.
+I hope that I will do my best in my study, work and life, and have a clear conscience in others. 
 
  
 
