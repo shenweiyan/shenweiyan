@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 ![antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=shenweiyan&style=flat&color=brightgreen&label=Profile+Views)
 
-A Bioinformatics Engineer.
-<br/>
+A Bioinformatics Engineer.<br/>
 I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics and IT skills.
 
 <a href="https://gitstar-ranking.com/shenweiyan">
@@ -41,14 +40,14 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 
 <br/>
 
-🏷️ [Github](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196)
+🏷️ [GitHub](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) | [Website](https://www.shumlab.com)
 
 <!--
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
 -->
-- I'm a fan of Python, Shell, R and Golang. 
-- I'm passionate about reproducible research and open source software.
+- 🌱 I'm a fan of Python, Shell, R and Golang. 
+- 👯 I'm passionate about reproducible research and open source software.
 
 Learn more: [https://www.shumlab.com](https://www.shumlab.com) or [https://shumlab.com](https://shumlab.com).
 
