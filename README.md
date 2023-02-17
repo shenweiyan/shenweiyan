@@ -40,14 +40,14 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 
 <br/>
 
-🏷️ [GitHub](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) | [Website](https://www.shumlab.com)
+[GitHub](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) | [Website](https://www.shumlab.com)
 
 <!--
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
 -->
-- 🌱 I'm a fan of Python, Shell, R and Golang. 
-- 👯 I'm passionate about reproducible research and open source software.
+🌻 I'm a fan of Python, Shell, R and Golang. <br/>
+🌼 I'm passionate about reproducible research and open source software.
 
 Learn more: [https://www.shumlab.com](https://www.shumlab.com) or [https://shumlab.com](https://shumlab.com).
 
