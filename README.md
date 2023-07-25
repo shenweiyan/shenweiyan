@@ -49,7 +49,7 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 🌻 I'm a fan of Python, Shell, R and Golang. <br/>
 🌼 I'm passionate about reproducible research and open source software.
 
-Learn more: [https://weiyan.cc](https://weiyan.cc) or [https://www.shumlab.com](https://www.shumlab.com).
+Learn more: [https://weiyan.cc](https://weiyan.cc) or [https://doc.weiyan.cc](https://doc.weiyan.com).
 
 <br/>
  
