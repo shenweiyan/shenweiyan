@@ -40,7 +40,7 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 
 <br/>
 
-[GitHub](https://github.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) | [Website](https://www.shumlab.com)
+[GitHub](https://github.com/shenweiyan) | [极狐 GitLab](https://jihulab.com/shenweiyan) | [YuQue](https://www.yuque.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) | [Website](https://www.shumlab.com)
 
 <!--
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
