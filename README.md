@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Steven Shum 👋
 
-![antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=shenweiyan&style=flat&color=brightgreen&label=Profile+Views)
+![antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=shenweiyan&style=flat&color=brightgreen&label=Profile+Views)  ![stars](https://img.shields.io/github/stars/shenweiyan?style=social) ![followers](https://img.shields.io/github/followers/shenweiyan?style=flat&color=blue&label=Followers) 
+
 
 A Bioinformatics Engineer.<br/>
 I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics and IT skills.
