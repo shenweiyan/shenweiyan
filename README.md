@@ -41,7 +41,7 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 
 <br/>
 
-[YuQue](https://www.yuque.com/shenweiyan) | [JiHuLab](https://jihulab.com/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) | [Website](https://blog.weiyan.cc/)
+[YuQue](https://www.yuque.com/shenweiyan) | [GitCode](https://gitcode.com/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) | [Website](https://blog.weiyan.cc/)
 
 <!--
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
