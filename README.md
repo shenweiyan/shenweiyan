@@ -46,13 +46,27 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 <!--
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
 - :telescope: I'm passionate about reproducible research and open source software.
--->
+
 🌻 I'm a fan of Python, Shell, R and Golang. <br/>
 🌼 I'm passionate about reproducible research and open source software.
+-->
+- I'm a fan of Python, Shell, R and Golang. <br/>
+- I'm passionate about reproducible research and open source software.
 
-Learn more: [https://weiyan.cc](https://weiyan.cc) or [https://weiyan.tech](https://weiyan.tech).
+🌼 Learn more: [https://weiyan.cc](https://weiyan.cc) or [https://weiyan.tech](https://weiyan.tech).
 
 <br/>
- 
+
 Real beauty comes from learning, growing, and loving in the ways of life.<br/>
 I hope that I will do my best in my study, work and life, and have a clear conscience in others. 
+
+<p align="center">
+  <a href="https://blog.liushen.fun">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shenweiyan&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+  </a>
+</p>
+<p align="center">
+  <a href="https://blog.qyliu.top">
+    <img src="https://github-profile-trophy.vercel.app/?username=shenweiyan&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+  </a>
+</p>
