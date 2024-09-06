@@ -51,7 +51,8 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 🌼 I'm passionate about reproducible research and open source software.
 -->
 
-I'm a fan of Python, Shell, R and Golang. <br/>I'm passionate about reproducible research and open source software.
+- I'm a fan of Python, Shell, R and Golang.
+- I'm passionate about reproducible research and open source software.
 
 🌼 Learn more: [https://weiyan.cc](https://weiyan.cc) or [https://weiyan.tech](https://weiyan.tech).
 
