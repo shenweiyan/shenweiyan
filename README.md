@@ -35,9 +35,10 @@ Here are some ideas to get you started:
 A Bioinformatics Engineer.<br/>
 I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics and IT skills.
 
-<a href="https://gitstar-ranking.com/shenweiyan">
+
+<!--a href="https://gitstar-ranking.com/shenweiyan">
 <img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&count_private=true&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
-</a>
+</a-->
 
 <br/>
 
