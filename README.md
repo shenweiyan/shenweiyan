@@ -62,7 +62,10 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 Real beauty comes from learning, growing, and loving in the ways of life.<br/>
 I hope that I will do my best in my study, work and life, and have a clear conscience in others. 
 
-<p align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shenweiyan&theme=vue)
+
+<!--p align="center">
   <a href="https://blog.liushen.fun">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shenweiyan&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
   </a>
@@ -71,4 +74,4 @@ I hope that I will do my best in my study, work and life, and have a clear consc
   <a href="https://blog.qyliu.top">
     <img src="https://github-profile-trophy.vercel.app/?username=shenweiyan&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
   </a>
-</p>
+</p-->
