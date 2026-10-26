@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 
 A Bioinformatics Engineer.<br/>
-I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics and IT skills.
-
+I’m graduated from [Southern Medical University (China)](https://www.smu.edu.cn/), currently working on studying bioinformatics, IT and AI skills.
 
 <!--a href="https://gitstar-ranking.com/shenweiyan">
 <img src="https://github-readme-stats.vercel.app/api?username=shenweiyan&count_private=true&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
@@ -42,7 +41,7 @@ I’m graduated from [Southern Medical University (China)](https://www.smu.edu.c
 
 <br/>
 
-[Website](https://shenwy.com/) | [GitCode](https://gitcode.com/shenweiyan) | [Gitee](https://gitee.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) 
+[Website](https://shenwy.com/) | [GitCode](https://gitcode.com/shenweiyan) | [ZhiHu](https://www.zhihu.com/people/shenweiyan) | [Weibo](https://weibo.com/u/6020143196) 
 
 <!--
 - :microscope: I'm a fan of Python, Shell, R and Golang. 
